@@ -1,0 +1,8 @@
+div {
+    background-color:aliceblue;
+    width: 1500px;
+    border: 20px solid grey;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
